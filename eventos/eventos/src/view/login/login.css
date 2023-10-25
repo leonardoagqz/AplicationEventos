@@ -1,0 +1,19 @@
+.login-content {
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-color: #5a3dc4;
+    height: 100vh;
+}
+
+.btn-login {
+    background-color: aliceblue;
+}
+
+.btn-login:hover {
+    background-color: brown;
+}
+
+.label-remenber {
+    color: black;
+}
